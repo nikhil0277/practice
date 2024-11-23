@@ -1,6 +1,11 @@
 hi i am nikhil how can i help you
 
+<<<<<<< HEAD
+#hiii 
+helllo
+=======
 #DETAIL
 name - nikhil
 class - btech.3rdyear
 
+>>>>>>> feature_update_files
