@@ -1,1 +1,6 @@
 hi i am nikhil how can i help you
+
+#DETAIL
+name - nikhil
+class - btech.3rdyear
+
